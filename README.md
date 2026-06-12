@@ -1,6 +1,6 @@
 # Название проекта
 
-Краткое описание (1-2 предложения).
+It's my first publication in GitHub. I'm just learning all the tricks of linux, git and github(ssh)
 
 ## Требования
 - Git
